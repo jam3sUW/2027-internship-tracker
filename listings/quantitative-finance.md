@@ -1,9 +1,10 @@
-# Quantitative Finance (190)
+# Quantitative Finance (191)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Energy Transfer Partners](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) | Commodity Trading Analyst Intern | Overland Park, KS | Summer 2027 | 2026-09-12 | 0 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) | Quantitative Research Intern - DV Equities | NYC | Summer 2027 | 2026-09-11 | 1 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | Quantitative Trading Intern - DV Equities | NYC | Summer 2027 | 2026-09-11 | 1 | simplify-2026 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235) | Quantitative Analyst Co-op | Boston, MA, Westlake, TX, Smithfield, RI, Merrimack, NH | Winter 2026 | 2026-09-11 | 1 | simplify-2026 |
