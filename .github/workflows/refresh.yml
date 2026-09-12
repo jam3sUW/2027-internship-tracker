@@ -41,5 +41,5 @@ jobs:
             git commit -m "Listings refresh $(date -u +%H:%M) UTC — ${{ steps.scrape.outputs.summary }}"
             git push
           else
-            echo "No changes since last refresh, skipping commit."
+            echo "No changes since last refresh, so skipping commit."
           fi
