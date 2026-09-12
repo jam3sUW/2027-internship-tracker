@@ -1,4 +1,4 @@
-# Hardware Engineering (530)
+# Hardware Engineering (528)
 
 [← back to index](../README.md)
 
@@ -73,7 +73,6 @@
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652) | Modem Hardware Engineer Intern/Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-09-10 | 2 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Advanced-Packaging---Physical-Integration_2604413) | Advanced Packaging & Physical Integration Intern - Advanced Packaging & Physical Integration | Austin, TX, Irvine, CA, Santa Clara, CA, Westlake Village, CA, Burlington, VT, Chandler, AZ, Westborough, MA | Winter 2026 | 2026-09-10 | 2 | simplify-2026 |
 | [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Electrical--January---June-2027--Hybrid-_REQ-2026-18043) | Life Cycle Engineering Co-op - Electrical | Acton, MA | Winter 2027, Summer 2027 | 2026-09-10 | 2 | simplify-2026 |
-| [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18076) | Electrical Engineering Co-op - R&D | Acton, MA | Winter 2027 | 2026-09-10 | 2 | simplify-2026 |
 | [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electronics-Engineering--January-June-2027--Hybrid-_REQ-2026-18014-1) | R&D Electronics Engineering Co-op | Acton, MA | Winter 2027 | 2026-09-10 | 2 | simplify-2026 |
 | [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966) | Embedded Software Engineering Co-op | Acton, MA | Winter 2027 | 2026-09-10 | 2 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) | Embedded Software Engineer Intern | Simi Valley, CA | Summer 2027 | 2026-09-10 | 2 | simplify-2026 |
@@ -308,7 +307,6 @@
 | [Qorvo](https://careers.qorvo.com/job/Greensboro-Design-Engineering-Intern-NC-27409/1421947700/?ats=successfactors) | Design Engineer Intern | Greensboro, NC | Fall 2026 | 2026-08-31 | 12 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors) | Product Engineering Intern | Hillsboro, OR | Fall 2026 | 2026-08-31 | 12 | simplify-2026 |
 | [Samsara](https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118) | Electrical Engineer Co-op | SF | Winter 2027, Spring 2027 | 2026-08-31 | 12 | simplify-2026 |
-| [Stryten](https://jobs.stryten.com/jobs/5799?icims=1) | System Engineer Intern | Alpharetta, GA | Summer 2027 | 2026-08-31 | 12 | simplify-2026 |
 | [Stryten](https://jobs.stryten.com/jobs/5800?icims=1) | Electrical Engineer Intern | Alpharetta, GA | Summer 2027 | 2026-08-31 | 12 | simplify-2026 |
 | [Stryten](https://jobs.stryten.com/jobs/5809?icims=1) | Industrial or Mechanical Engineering Intern | Salina, KS | Summer 2027 | 2026-08-31 | 12 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885) | Sensor Electrical Engineering Co-op - Spring 2027 | Cambridge, MA | Spring 2027 | 2026-08-31 | 12 | simplify-2026 |
