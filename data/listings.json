@@ -2,6 +2,86 @@
   {
     "source": "Simplify",
     "category": "Software",
+    "company_name": "Baird",
+    "id": "8bab5dd2-9265-4515-b6ba-b4ca2af51a80",
+    "title": "IT AI & Automation Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789474526,
+    "date_posted": 1788825600,
+    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Baird",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tencent",
+    "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
+    "title": "Machine Learning Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1789472226,
+    "date_posted": 1789344000,
+    "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Autostore",
+    "id": "d81bc1c9-aee7-4814-8ab8-598008962e65",
+    "title": "Electronics Engineering Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1789469874,
+    "date_posted": 1789257600,
+    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Autostore",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
     "company_name": "Etched",
     "id": "ca280838-311b-45d8-bc16-74d93c8462f8",
     "title": "Core Engineering Intern",
@@ -1957,7 +2037,7 @@
     "company_name": "Oshkosh",
     "id": "66842e6a-844a-444e-b6f7-7c6403506740",
     "title": "Advanced Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -3920,7 +4000,7 @@
     "company_name": "Marvell",
     "id": "f71cdae9-a282-43a7-a49d-7feca7c1b638",
     "title": "Architecture Intern - MS",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4974,7 +5054,7 @@
     "company_name": "Enact Mortgage Insurance",
     "id": "c27aa2e9-dd87-4f06-91ee-4134e27b2e2d",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5132,7 +5212,7 @@
     "company_name": "Micron Technology",
     "id": "0f1a5eef-d0e4-4005-9f93-f6e95245eb6f",
     "title": "IT Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -5764,7 +5844,7 @@
     "company_name": "Principal Financial Group",
     "id": "f6b42284-9795-4e37-9fa2-435b51880db7",
     "title": "Data Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -6649,7 +6729,7 @@
     "company_name": "URBN",
     "id": "f90f94d5-786f-4736-b98d-933eaa6987ef",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -8128,7 +8208,7 @@
     "company_name": "Cozey",
     "id": "d7f0c23e-9959-43e2-8078-887a76fc2142",
     "title": "Product Management Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -9765,7 +9845,7 @@
     "company_name": "Moog",
     "id": "47ede39b-99d8-4812-a001-6148ff88ca5d",
     "title": "Embedded Design Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9818,7 +9898,7 @@
     "company_name": "RTX",
     "id": "b0fd8336-e667-4187-901e-5e7d96cbd6bf",
     "title": "Manufacturing & Quality Analyst Intern - Stage 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -13028,7 +13108,7 @@
     "company_name": "John Deere",
     "id": "4d93e11e-4f7e-4fb2-a3e9-b58835c13dcd",
     "title": "Product Engineering Student - Product Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -13882,7 +13962,7 @@
     "company_name": "General Motors",
     "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
     "title": "Economics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -22032,7 +22112,7 @@
     "company_name": "General Motors",
     "id": "10dda9a8-fdca-4b2e-abf9-94844492a2ab",
     "title": "Global Customer Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -29760,7 +29840,7 @@
     "company_name": "Airbus",
     "id": "c22bc27e-38ff-437b-89e0-136cb456c08a",
     "title": "Landing Gear Engineering AI & Data Analytics Placement",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -45032,7 +45112,7 @@
     "company_name": "Intel",
     "id": "fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
     "title": "Silicon Hardware Engineering Intern - Graduate",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -53266,7 +53346,7 @@
     "company_name": "United Airlines",
     "id": "b2910d1a-df08-4c5a-9ad6-88cf9a60ff6f",
     "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -55480,7 +55560,7 @@
     "company_name": "United Airlines",
     "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
     "title": "Research Scholar Intern - Statistics",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -64433,7 +64513,7 @@
     "company_name": "Intelcom | Dragonfly",
     "id": "7457d468-4ac9-4c0d-996a-a9bf28362a0f",
     "title": "Front-end Developer Intern - Mobile Application",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -77623,7 +77703,7 @@
     "company_name": "Springs Window Fashions",
     "id": "fb4c05e4-dae7-48e3-b6d3-5e670ed8556d",
     "title": "Product Management Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -143504,7 +143584,7 @@
     "company_name": "Cloudflare",
     "id": "a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
     "title": "Systems Engineer \u2013 Data Residency Intern - Global Resource Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -217900,7 +217980,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -301933,7 +302013,7 @@
     "company_name": "PennState University",
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "title": "Research and Development Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026",
       "Fall 2026",
