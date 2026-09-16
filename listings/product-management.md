@@ -1,4 +1,4 @@
-# Product Management (207)
+# Product Management (209)
 
 [← back to index](../README.md)
 
@@ -140,9 +140,11 @@
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345) | Product Management Intern - Product Management | NYC | Summer 2027 | 2026-08-24 | 23 | simplify-2026 |
 | [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false) | Product Management Competitive Product Assessment Intern - Summer 2027 | Middleton, WI | Summer 2027 | 2026-08-22 | 25 | simplify-2026 |
 | [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) | Product Management Dashboard Analytics Intern | Middleton, WI | Summer 2027 | 2026-08-22 | 25 | simplify-2026 |
+| [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Product Management Intern | Long Island City, Queens, NY | Summer 2027 | 2026-08-22 | 25 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7675616554318596357) | AI Product Manager Intern - Product Social | San Jose, CA | Summer 2027 | 2026-08-22 | 25 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7676283436713593093) | Product Manager Intern - Content and Service Ads | San Jose, CA | Summer 2027 | 2026-08-22 | 25 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | Summer 2027 | 2026-08-21 | 26 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171513?type=students) | AWM Product Management Analyst Intern | Dallas, TX | Summer 2027 | 2026-08-19 | 28 | simplify-2026 |
 | [Flagright](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true) | Product Operations Intern | London, UK | Fall 2026 | 2026-08-19 | 28 | simplify-2026 |
 | [Swift](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | Standards Strategy & Product Management Intern | London, UK | Fall 2026 | 2026-08-19 | 28 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749) | Product Development Intern - Global Servicing | NYC | Summer 2027 | 2026-08-18 | 29 | simplify-2026 |
