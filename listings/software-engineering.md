@@ -1,4 +1,4 @@
-# Software Engineering (1292)
+# Software Engineering (1291)
 
 [← back to index](../README.md)
 
@@ -283,7 +283,6 @@
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137483396343) | Student - OEM/Marine Applications | Waterloo, IA | N/A | 2026-09-11 | 10 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721064018) | Machine Learning Compiler & Performance Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 | 2026-09-11 | 10 | simplify-2026 |
 | [MegazoneCloud](https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application?embed=true) | Software Engineer Co-op | Rochester, NY | Summer 2027 | 2026-09-11 | 10 | simplify-2026 |
-| [Commure](https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true) | Software Engineer Intern - Summer 2027 | Mountain View, CA | Summer 2027 | 2026-09-11 | 10 | simplify-2026 |
 | [ibotta](https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true) | Software Engineer Intern | Denver, CO | Summer 2027 | 2026-09-11 | 10 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) | Software Developer Intern | NYC | Summer 2027 | 2026-09-11 | 10 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283220) | Content Integration Engineer Intern - Vehicle Firmware | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-11 | 10 | simplify-2026 |
