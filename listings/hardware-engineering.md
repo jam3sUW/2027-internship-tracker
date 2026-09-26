@@ -1,4 +1,4 @@
-# Hardware Engineering (689)
+# Hardware Engineering (690)
 
 [← back to index](../README.md)
 
@@ -42,6 +42,7 @@
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Advance-Development-Engineering-Co-op_R-098609) | Advance Development Engineering Co-op - Engineering | Danvers, MA | Winter 2027, Spring 2027 | 2026-09-24 | 2 | simplify-2026 |
 | [iRhythm Technologies](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op-Intern-January-June-2027_JR1785) | Electrical Engineer Co-op Intern | SF | Winter 2026 | 2026-09-24 | 2 | simplify-2026 |
 | [iRhythm Technologies](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Orange-County-CA/Lifecycle-Engineering-Co-Op-Full-Time-Intern-Jan-June-2027_JR1784-1) | Lifecycle Engineering Co-op Intern | Orange County, CA | Summer 2027 | 2026-09-24 | 2 | simplify-2026 |
+| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Data Center Silicon Hardware Engineering Intern Co-op - BS | Toronto, ON, Canada, Ottawa, ON, Canada | Summer 2027 | 2026-09-24 | 2 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788) | Analog Design Intern Co-op - BS | Toronto, ON, Canada | Winter 2026 | 2026-09-24 | 2 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada | Summer 2027 | 2026-09-24 | 2 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) | Analog and Mixed Signal Layout Engineer Intern Co-op | Toronto, ON, Canada | Summer 2027 | 2026-09-24 | 2 | simplify-2026 |
@@ -286,7 +287,6 @@
 | [Garmin](https://careers.garmin.com/jobs/19937?icims=1) | Component Engineering Intern | Olathe, KS | Winter 2026 | 2026-09-10 | 16 | simplify-2026 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX | Summer 2027 | 2026-09-10 | 16 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232) | Engineering Software Intern | Southfield, MI | Winter 2026 | 2026-09-10 | 16 | simplify-2026 |
-| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Architecture--DSP---Systems-Architecture_2604415) | Architecture, DSP & Systems Architecture Ph.D. Intern | Austin, TX, Irvine, CA, Santa Clara, CA, Westlake Village, CA, Burlington, VT, Westborough, MA | Winter 2026 | 2026-09-10 | 16 | simplify-2026 |
 | [Masco](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) | Hardware Engineer Co-op - Electrical Engineering | Indianapolis, IN | Winter 2026 | 2026-09-10 | 16 | simplify-2026 |
 | [Delta Faucet](https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344) | Hardware Engineer Co-op - Electrical Engineering | Indianapolis, IN | Winter 2026 | 2026-09-10 | 16 | simplify-2026 |
 | [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Electrical-Engineering-Intern_R0023607) | Electrical Engineer Intern | Dayton, MN | Winter 2026 | 2026-09-10 | 16 | simplify-2026 |
@@ -357,6 +357,7 @@
 | [Solidigm](https://jobs.smartrecruiters.com/Solidigm/744000147613839) | Hardware & Product Development Engineering Intern | Rancho Cordova, CA | Summer 2027 | 2026-09-05 | 21 | simplify-2026 |
 | [Solidigm](https://jobs.smartrecruiters.com/Solidigm/744000147613779) | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA | Summer 2027 | 2026-09-05 | 21 | simplify-2026 |
 | [Solidigm](https://jobs.smartrecruiters.com/Solidigm/744000147613629) | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA, Longmont, CO, Sacramento, CA | Summer 2027 | 2026-09-05 | 21 | simplify-2026 |
+| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) | Advanced Packaging Intern | Austin, TX, Santa Clara, CA, Westlake Village, CA, Burlington, VT, Chandler, AZ, Westborough, MA | Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028 | 2026-09-05 | 21 | simplify-2026 |
 | [Apex](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true) | Simulation Software Engineering Intern | LA | Summer 2027, Fall 2027 | 2026-09-04 | 22 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/279743) | Electrical Engineer Intern - Energy Engineering | Palo Alto, CA, Austin, TX | Spring 2027 | 2026-09-04 | 22 | simplify-2026 |
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000147549219) | Systems Engineering Co-op - Multiple Teams | Ottawa, ON, Canada | Winter 2027 | 2026-09-04 | 22 | simplify-2026 |
