@@ -1,6 +1,89 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Regeneron Pharmaceuticals",
+    "id": "1c799f05-b926-4be3-ae23-debd91b8eabf",
+    "title": "Precision Medicine Operations Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1790955042,
+    "date_posted": 1790899200,
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1",
+    "locations": [
+      "Armonk, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Regeneron-Pharmaceuticals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northrop Grumman",
+    "id": "11487bbd-b590-4b02-a2f1-0d88df7fbbd2",
+    "title": "College Technical Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1790955038,
+    "date_posted": 1790899200,
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146",
+    "locations": [
+      "McLean, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Regeneron Pharmaceuticals",
+    "id": "b5a81fd0-a681-49ab-b2f2-7e9a18887260",
+    "title": "Data Analytics & Digital Tools Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1790955001,
+    "date_posted": 1790899200,
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1",
+    "locations": [
+      "Rensselaer, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Regeneron-Pharmaceuticals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Vanguard",
     "id": "665e2669-0a2a-4e07-9859-73f9f3e9b83d",
@@ -8385,7 +8468,7 @@
     "company_name": "Solventum",
     "id": "d9096e87-c0da-412f-8d9c-7f060e26ee29",
     "title": "Linguistic Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -18498,7 +18581,7 @@
     "company_name": "KLA Corporation",
     "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
     "title": "Algorithm Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -20999,7 +21082,7 @@
     "company_name": "Marvell",
     "id": "4f8c6168-84ff-40db-9f17-9413fdaa3a68",
     "title": "Software/Firmware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -24052,7 +24135,7 @@
     "company_name": "Fidelity Investments",
     "id": "dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
     "title": "Quantitative Analyst Intern - Fixed Income Team",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -42878,7 +42961,7 @@
     "company_name": "AtkinsR\u00e9alis",
     "id": "f58db82d-9113-411b-97bb-b0f24752115a",
     "title": "Data Scientist Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48867,7 +48950,7 @@
     "company_name": "Cone Health",
     "id": "60bd3418-218f-4b15-8d31-ef859ef98887",
     "title": "Healthcare Innovation Intern - AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -51222,7 +51305,7 @@
     "company_name": "Cone Health",
     "id": "afd21544-6639-41f1-8291-72912c4dd6c6",
     "title": "Healthcare Innovation Intern - AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -58920,7 +59003,7 @@
     "company_name": "Barclays",
     "id": "01b3137b-e177-498e-885f-aa8cc95758a1",
     "title": "Technology Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69127,7 +69210,7 @@
     "company_name": "Dropbox",
     "id": "425aaabf-7af3-4cd6-b041-c9f26fe0e736",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -78266,7 +78349,7 @@
     "company_name": "RTX",
     "id": "4fb34804-5a77-473d-9fdf-a34420e9e45b",
     "title": "Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -85861,7 +85944,7 @@
     "company_name": "Deutsche Bank",
     "id": "e534eafc-22e9-4880-a6af-3884c72ecd2e",
     "title": "Quantitative Trading Intern - Fixed Income & Currencies",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -107295,7 +107378,7 @@
     "company_name": "Brunswick",
     "id": "1a7cd887-6c00-45f3-bf3d-87fa5aebe90f",
     "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027",
@@ -166450,7 +166533,7 @@
     "company_name": "Kepler Communications",
     "id": "fa4975ec-d463-48d0-9a3e-2333084e1c63",
     "title": "FPGA Digital Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -399617,6 +399700,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intel",
+    "id": "956fd9a3-8b39-4103-b8b9-299b11b5a695",
+    "title": "Mecop Intern",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1770259939,
+    "date_posted": 1770259939,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0280601",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "Itron",
     "id": "e6c356a0-3d62-4de3-9c32-73c04769c84e",
@@ -401715,110 +401824,6 @@
       "Glastonbury, CT"
     ],
     "company_url": "https://simplify.jobs/c/Crum-And-Forster-Insurance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Western Alliance",
-    "id": "4398cf1c-5cac-4423-a138-575fbf8e6be1",
-    "title": "Business Operations Intern/Co-op - Computer Science Majors",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770220325,
-    "date_posted": 1770220325,
-    "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2026-Internship---Computer-Science-Majors_R12234",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Western-Alliance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "BorgWarner",
-    "id": "6e356c9d-0c9c-4375-895e-70dbf3665f46",
-    "title": "Data Analytics Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770220263,
-    "date_posted": 1770220263,
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Analytics-Intern_R2026-0394",
-    "locations": [
-      "Auburn Hills, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/BorgWarner",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Johnson & Johnson",
-    "id": "317f491d-616b-42fd-ac38-18f0ea21b2bd",
-    "title": "Supply Chain and Data Management Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770220229,
-    "date_posted": 1770220229,
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-and-Data-Management-Co-OP_R-056192",
-    "locations": [
-      "Edison, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intel",
-    "id": "f51556e6-a666-4051-bb8e-abc4c75caf20",
-    "title": "Mecop Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770219538,
-    "date_posted": 1770219538,
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0279557",
-    "locations": [
-      "Hillsboro, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/Intel",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [

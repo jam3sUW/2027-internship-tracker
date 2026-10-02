@@ -1,4 +1,4 @@
-# Software Engineering (1308)
+# Software Engineering (1306)
 
 [← back to index](../README.md)
 
@@ -547,7 +547,6 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396) | Software Development Intern - DeltaV | Austin, TX | Summer 2026 | 2026-09-09 | 23 | simplify-2026 |
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | Software Solutions Engineer PhD Intern | Hillsboro, OR | Winter 2026 | 2026-09-09 | 23 | simplify-2026 |
 | [Kensho](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1) | Software Engineer Intern - Summer 2027 | Cambridge, MA, NYC | Summer 2027 | 2026-09-09 | 23 | simplify-2026 |
-| [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) | Technology Developer Intern | London, UK | Summer 2027 | 2026-09-09 | 23 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443) | Technology Developer Apprentice | Knutsford, UK | Summer 2027 | 2026-09-09 | 23 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) | Technology Developer Intern | Knutsford, UK | Summer 2027 | 2026-09-09 | 23 | simplify-2026 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) | Quantum Computing Research Intern | Washington, DC | Summer 2027 | 2026-09-09 | 23 | simplify-2026 |
@@ -616,7 +615,6 @@
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Enablement---Intern_R410960) | Business Enablement Intern | North Wales, PA, Rahway, NJ | Winter 2026 | 2026-09-08 | 24 | simplify-2026 |
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939) | Intern | West Point, PA | Summer 2027 | 2026-09-08 | 24 | simplify-2026 |
 | [Dick's Sporting Goods](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1) | Software Engineer Intern - Corporate Internship | Pittsburgh, PA | Summer 2027 | 2026-09-08 | 24 | simplify-2026 |
-| [Dropbox](https://boards.greenhouse.io/embed/job_app?token=8106224) | Software Engineer Intern - Summer 2027 | Remote in USA | Summer 2027 | 2026-09-07 | 25 | simplify-2026 |
 | [incident.io](https://jobs.ashbyhq.com/incident/470989ec-6ac5-4800-beb1-0ba1684ec1ee/application?embed=true) | Product Engineer Placement - 6 Months | London, UK | N/A | 2026-09-07 | 25 | simplify-2026 |
 | [incident.io](https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true) | Product Engineer Intern | London, UK | Summer 2027 | 2026-09-07 | 25 | simplify-2026 |
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358) | Software Developer Intern | Ottawa, ON, Canada | Winter 2027 | 2026-09-07 | 25 | simplify-2026 |
