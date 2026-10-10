@@ -1,4 +1,4 @@
-# Hardware Engineering (825)
+# Hardware Engineering (826)
 
 [← back to index](../README.md)
 
@@ -497,6 +497,7 @@
 | [Varian](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/Software-Engineering-Co-op---Hoffman-Estates--IL_R-30649) | Embedded Software Engineering Co-op | Hoffman Estates, IL | Winter 2026 | 2026-09-09 | 31 | simplify-2026 |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) | FPGA Design Engineering Intern | Schaumburg, IL | Summer 2027 | 2026-09-09 | 31 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1) | Electrical Engineer Co-op | Gloucester, MA | Spring 2027 | 2026-09-09 | 31 | simplify-2026 |
+| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | Summer 2027 | 2026-09-09 | 31 | simplify-2026 |
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true) | Sensor Hardware Test Engineer Intern | SF | Summer 2027 | 2026-09-08 | 32 | simplify-2026 |
 | [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c/application?embed=true) | Software Engineer Intern | Austin, TX | N/A | 2026-09-08 | 32 | simplify-2026 |
 | [Revel](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) | Embedded Software Engineer Intern | SF, LA | Summer 2027 | 2026-09-08 | 32 | simplify-2026 |

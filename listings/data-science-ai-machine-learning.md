@@ -1,9 +1,10 @@
-# Data Science, AI & Machine Learning (1484)
+# Data Science, AI & Machine Learning (1485)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60432?icims=1) | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | Summer 2027 | 2026-10-10 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7670689681491364101) | Machine Learning Engineer Intern - Conversational AI | Seattle, WA | N/A | 2026-10-10 | 0 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257006) | Summer Intern - Research - Post Training | SF, Mountain View, CA | Summer 2027 | 2026-10-10 | 0 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8258070) | Research Intern - AV Planning | Mountain View, CA | Summer 2027 | 2026-10-10 | 0 | simplify-2026 |

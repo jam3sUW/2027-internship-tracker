@@ -1,4 +1,4 @@
-# Software Engineering (1359)
+# Software Engineering (1358)
 
 [← back to index](../README.md)
 
@@ -1362,4 +1362,3 @@
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395) | Software Engineer - Cloudworks - Skillbridge | Wright-Patterson AFB, OH | N/A | 2026-02-17 | 235 | simplify-2026 |
 | [Mercor](https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application) | Software Engineer Intern | SF | Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027 | 2026-02-13 | 239 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7595756835349973253/detail) | Software Engineer Intern - AI Infrastructure | San Jose, CA | Summer 2026 | 2026-02-13 | 239 | simplify-2026 |
-| [Fanatics](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727) | Collectibles - Software Engineer | NYC, LA, Coppell, TX | Summer 2026 | 2026-02-12 | 240 | simplify-2026 |
