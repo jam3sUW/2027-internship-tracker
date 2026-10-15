@@ -1,4 +1,4 @@
-# Software Engineering (1369)
+# Software Engineering (1367)
 
 [← back to index](../README.md)
 
@@ -517,7 +517,6 @@
 | [Bass Pro Shops](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1) | IT Developer Intern | Springfield, MO | Summer 2027 | 2026-09-16 | 29 | simplify-2026 |
 | [Zions Bank](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071639) | Software Engineer Intern | United States | Summer 2026 | 2026-09-15 | 30 | simplify-2026 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Lakewood, CO | Summer 2027 | 2026-09-15 | 30 | simplify-2026 |
-| [Ambrook](https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?embed=true) | Software Engineer Co-op | NYC | Spring 2027 | 2026-09-15 | 30 | simplify-2026 |
 | [Rilla](https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9/application?embed=true) | Software Engineer Intern | NYC, Brooklyn, NY | Winter 2026 | 2026-09-15 | 30 | simplify-2026 |
 | [APEX Analytix](https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7) | Automation Developer Intern | Greensboro, NC | Summer 2027 | 2026-09-15 | 30 | simplify-2026 |
 | [Lunar Outpost](https://lunaroutpost.bamboohr.com/careers/398/) | Ground Software Engineer Intern - Summer 2027 | Golden, CO | Summer 2027 | 2026-09-15 | 30 | simplify-2026 |
@@ -1131,7 +1130,6 @@
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446716226621) | AI Integration & Interoperability Intern | Cheektowaga, NY | Summer 2026 | 2026-08-05 | 71 | simplify-2026 |
 | [Valstad](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true) | Robotics Software Intern - Manipulation & Simulation | Austin, TX | Fall 2026 | 2026-08-05 | 71 | simplify-2026 |
 | [Valstad](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true) | Software Engineer Intern - 3D & Manufacturing Applications | Austin, TX | Fall 2026 | 2026-08-05 | 71 | simplify-2026 |
-| [GE Appliances](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427) | Software Engineer Co-op - Software Engineering | Louisville, KY | Summer 2027 | 2026-08-05 | 71 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7667935150530840837) | Backend Software Engineer Intern - LIVE Foundation Governance Engineering | San Jose, CA | Summer 2027 | 2026-08-04 | 72 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669711026846058757) | Frontend Engineer Intern - Global CRM | San Jose, CA | Summer 2027 | 2026-08-04 | 72 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7668862422178318597) | Software Engineer Intern - Intelligent Creation-Camera | San Jose, CA | Summer 2027 | 2026-08-04 | 72 | simplify-2026 |
