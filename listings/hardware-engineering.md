@@ -1,4 +1,4 @@
-# Hardware Engineering (861)
+# Hardware Engineering (863)
 
 [← back to index](../README.md)
 
@@ -86,6 +86,7 @@
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642032) | Product Development Intern - Electron Beam Instrumentation | Ann Arbor, MI | N/A | 2026-10-13 | 5 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | Summer 2027 | 2026-10-13 | 5 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Masters-Level-Intern_1213425) | VLSI Design Verification Masters Level Intern | Fort Collins, CO | N/A | 2026-10-13 | 5 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Summer-Engineering-Intern--Summer-2027-_01882181) | Engineering Intern | Cedar Rapids, IA | Summer 2027 | 2026-10-13 | 5 | simplify-2026 |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679) | Electrical Engineer / PCB Designer Intern | Plantation, FL | Summer 2027 | 2026-10-13 | 5 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54715?icims=1) | Tech 2 Intern | Roseville, CA | N/A | 2026-10-12 | 6 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54345?icims=1) | Research and Development Hardware Engineer Intern | Austin, TX | Summer 2026 | 2026-10-12 | 6 | simplify-2026 |
@@ -137,6 +138,7 @@
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180) | ASIC Design Engineer Intern | Sunnyvale, CA | N/A | 2026-10-07 | 11 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018) | Electrical Engineer Intern | McKinney, TX | Summer 2027 | 2026-10-07 | 11 | simplify-2026 |
 | [Nordson](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Electrical-Engineering-Intern_REQ53005) | Electrical Engineer Intern | East Providence, RI | N/A | 2026-10-07 | 11 | simplify-2026 |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989) | Systems Engineer Intern - Asd | Milford, MI, Warren, MI | Summer 2027 | 2026-10-07 | 11 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993) | AV Sensor Design, Release and Integration Intern | Warren, MI | Summer 2027 | 2026-10-07 | 11 | simplify-2026 |
 | [The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) | Embedded Systems / Software Engineer Intern | Chantilly, VA, El Segundo, CA | N/A | 2026-10-07 | 11 | simplify-2026 |
 | [The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Undergraduate-Intern_R016791) | Radiation Effects Undergraduate Intern | El Segundo, CA | N/A | 2026-10-07 | 11 | simplify-2026 |
