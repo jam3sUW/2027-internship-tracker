@@ -1,4 +1,4 @@
-# Quantitative Finance (205)
+# Quantitative Finance (204)
 
 [← back to index](../README.md)
 
@@ -42,7 +42,6 @@
 | [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economics--Chief-Investment-Office--CIO---Non-Campus-_R237631) | Economics Intern - Multiple Teams | NYC | Winter 2026 | 2026-10-01 | 18 | simplify-2026 |
 | [PNC Financial Services](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Modeling--Chief-Investment-Office--CIO---Non-Campus-_R237632-1) | Modeling Graduate Intern - Modeling - Chief Investment Office | NYC | Winter 2026 | 2026-10-01 | 18 | simplify-2026 |
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) | ALM Data Management & Analytics Co-op | Toronto, ON, Canada | Winter 2027 | 2026-10-01 | 18 | simplify-2026 |
-| [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35810?icims=1) | Model Risk Management Intern | Raleigh, NC | Summer 2027 | 2026-09-30 | 19 | simplify-2026 |
 | [Capstone Investment Advisors](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002) | Quant Intern | London, UK | Summer 2027 | 2026-09-30 | 19 | simplify-2026 |
 | [SouthState Bank](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Quantitative Intern | Texas, Florida, South Carolina, Georgia, Virginia, Colorado, North Carolina, Alabama | Summer 2027 | 2026-09-29 | 20 | simplify-2026 |
 | [Charles Schwab](https://career-schwab.icims.com/jobs/126262/job?mobile=true&needsRedirect=false) | Model Risk Governance & Validation Intern | Southlake, TX | Summer 2027 | 2026-09-25 | 24 | simplify-2026 |

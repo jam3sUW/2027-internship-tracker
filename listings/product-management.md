@@ -1,10 +1,14 @@
-# Product Management (218)
+# Product Management (222)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Westinghouse Electric Company](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors) | Product Engineer Intern | Cranberry Township, PA | Summer 2027 | 2026-10-19 | 0 | simplify-2026 |
+| [Amplify](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Product Management Intern | Remote in USA | Summer 2027 | 2026-10-19 | 0 | simplify-2026 |
 | [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 0 | simplify-2026 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA | Summer 2027 | 2026-10-19 | 0 | simplify-2026 |
+| [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | Product Management Intern | Downers Grove, IL | Summer 2027 | 2026-10-19 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7697105572165519621) | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 | 2 | simplify-2026 |
 | [Behaviour Interactive](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | Winter 2027 | 2026-10-16 | 3 | simplify-2026 |
 | [Citco](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073) | Product Intern | London, UK | N/A | 2026-10-16 | 3 | simplify-2026 |
