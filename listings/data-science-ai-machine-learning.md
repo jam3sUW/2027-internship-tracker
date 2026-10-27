@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1557)
+# Data Science, AI & Machine Learning (1555)
 
 [← back to index](../README.md)
 
@@ -170,7 +170,6 @@
 | [Analytic Partners](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302/apply) | Data Science Co-op | Miami, FL | Winter 2027 | 2026-10-21 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Meta](https://www.metacareers.com/jobs/1075160338670575) | Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR | Burlingame, CA, Redmond, WA | N/A | 2026-10-21 | 6 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1656954472496223) | Research Scientist Intern - Multimodal Learning for Robotics - PhD | Burlingame, CA | N/A | 2026-10-21 | 6 | simplify-2026 |
-| [Meta](https://www.metacareers.com/jobs/27730225806654441) | Research Scientist Intern - Robot Foundation Models | Redmond, WA | N/A | 2026-10-21 | 6 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1078644001656413) | Research Scientist Intern - Foundational Models for Robotics Research | Menlo Park, CA | N/A | 2026-10-21 | 6 | simplify-2026 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5271842007) | Robotics Engineer Co-op | Quincy, MA | Winter 2027 | 2026-10-21 | 6 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [EDF Energy](https://jobs.smartrecruiters.com/EDF-UK/744000156829540) | Chemistry Industrial Placement Intern | Gloucester, UK | N/A | 2026-10-21 | 6 | simplify-2026 |
@@ -407,7 +406,6 @@
 | [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274) | Audio Machine Learning Co-op | Framingham, MA | Winter 2027 | 2026-10-13 | 14 | simplify-2026 |
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Finance-Analytics_R-41494) | Finance Analytics Intern | Rochester, NY | N/A | 2026-10-13 | 14 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) | IT Business Analyst Intern | Perry, OK | Summer 2027 | 2026-10-13 | 14 | simplify-2026 |
-| [Lake Michigan Credit Union](https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Business-Intelligence-Intern_REQ-2026-6972) | Business Intelligence Intern | Grand Rapids, MI | N/A | 2026-10-13 | 14 | simplify-2026 |
 | [Scout Clean Energy](https://apply.workable.com/scout-clean-energy/j/56C8F2E503/apply) | Geospatial Intern | Boulder, CO | Summer 2027 | 2026-10-12 | 15 | simplify-2026 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/195465) | Digital Technology & Data Intern | Auburn Hills, MI | Summer 2027 | 2026-10-12 | 15 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Ascension](https://jobs.ascension.org/us/en/job/2026-465180) | Master Data Management Intern | St. Louis, MO | Summer 2027 | 2026-10-12 | 15 | simplify-2026 |

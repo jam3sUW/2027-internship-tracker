@@ -1,4 +1,4 @@
-# Software Engineering (1335)
+# Software Engineering (1333)
 
 [← back to index](../README.md)
 
@@ -439,7 +439,6 @@
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503) | Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation | Sunnyvale, CA | Summer 2027 | 2026-10-01 | 26 | simplify-2026 |
 | [DataRobot](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/MCP---Memory-Intern_R-102755) | MCP & Memory Intern | Boston, MA, Massachusetts | Winter 2026 | 2026-10-01 | 26 | simplify-2026 |
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945) | Technology Intern | Sunnyvale, CA | Summer 2027 | 2026-10-01 | 26 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Nordson](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945) | Software Engineer Intern | Minneapolis, MN | Winter 2026 | 2026-10-01 | 26 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1) | AI Prompt Engineer Intern | Ashburn, VA | Summer 2027 | 2026-10-01 | 26 | simplify-2026 |
 | [C&S Wholesale Grocers](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Houston-TX/IS-Internship---Web-Applications_R-268964) | IS Intern - Web Applications | Houston, TX | Summer 2026 | 2026-10-01 | 26 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | Software Development/Engineer Intern | Remote in USA | Summer 2027 | 2026-10-01 | 26 | simplify-2026 |
@@ -455,7 +454,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/284924) | Software Developer Intern - Integration Tools | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-30 | 27 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379) | PhD Research Intern - Programming Systems | Santa Clara, CA | Summer 2027 | 2026-09-30 | 27 | simplify-2026 |
 | [KLA Corporation](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1) | Software Engineer Intern | Milpitas, CA | Summer 2026 | 2026-09-30 | 27 | simplify-2026 |
-| [KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572) | Software Engineer Intern | Milpitas, CA | Summer 2026 | 2026-09-30 | 27 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284925) | Software Engineer Intern - Data Transformations | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-29 | 28 | simplify-2026 |
 | [Enova](https://job-boards.greenhouse.io/enova/jobs/8239619) | Software Engineer Intern | Chicago, IL | Summer 2027 | 2026-09-29 | 28 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | Software Engineering Co-op | United States | Summer 2027 | 2026-09-29 | 28 | simplify-2026 |
