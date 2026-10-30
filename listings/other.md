@@ -1,12 +1,18 @@
-# Other (1142)
+# Other (1148)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Trane Technologies](https://go.vansh.nyc/10w) | AI & Analytics Intern | Davidson, NC, Minneapolis, MN |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Barclays](https://go.vansh.nyc/10x) | Chief Client Office Intern, Client Data & Engineering Group | New York, NY |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [L3Harris Technologies](https://go.vansh.nyc/10n) | FPGA Software Tool Developer Co-op | Waterdown, Canada |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/10o) | AI Systems Software Engineering Intern | Austin, TX |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/10m) | Soft IP Engineer Co-op | Ottawa, Canada |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [MITRE](https://go.vansh.nyc/10t) | Data Science and Engineering Intern | McLean, VA |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [MITRE](https://go.vansh.nyc/10r) | Trustworthy AI Intern | McLean, VA |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [MITRE](https://go.vansh.nyc/10s) | Critical Infrastructure Protection Intern | McLean, VA |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Amazon](https://go.vansh.nyc/10y) | Software Development Engineer Intern, Machine Learning/Automated Reasoning | Seattle, WA |  | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Synopsys](https://go.vansh.nyc/10b) | Technical Engineer Intern | Ottawa, Canada |  | 2026-10-29 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Waterworth](https://go.vansh.nyc/10a) | Computer Science Co-op | Victoria, Canada |  | 2026-10-29 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/ZK) | AI Software Engineering Co-op | Toronto, Canada |  | 2026-10-29 | 1 | vanshb03-2026, vanshb03-2027 |
