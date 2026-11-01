@@ -1,4 +1,4 @@
-# Hardware Engineering (909)
+# Hardware Engineering (908)
 
 [← back to index](../README.md)
 
@@ -57,7 +57,6 @@
 | [The Design Rules Company](https://jobs.ashbyhq.com/designrulesco/fef04176-c32b-4bff-ad91-a128d5efd2b1/application?embed=true) | Co-op Intern | NYC | Spring 2027 | 2026-10-27 | 5 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) | Test Engineer Intern - Space Technologies | Albuquerque, NM | Summer 2026 | 2026-10-27 | 5 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435) | Systems Engineering Co-op | St. Petersburg, FL | N/A | 2026-10-27 | 5 | simplify-2026 |
-| [Altera](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322) | IP Design Intern | Toronto, ON, Canada | N/A | 2026-10-27 | 5 | simplify-2026 |
 | [Boston Dynamics](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315) | Electrical Engineer Co-op | Waltham, MA | N/A | 2026-10-27 | 5 | simplify-2026 |
 | [Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada | N/A | 2026-10-27 | 5 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-10-27 | 5 | simplify-2026 |
