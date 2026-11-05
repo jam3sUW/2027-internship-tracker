@@ -25,18 +25,18 @@ python scripts/track.py render   # writes APPLICATIONS.md
 
 ## Listings
 
-**6228 active listings** across 6 categories. Last refreshed: 2026-11-05 20:33 UTC.
+**6221 active listings** across 6 categories. Last refreshed: 2026-11-05 22:33 UTC.
 
 Browse by category below, or go straight to **[today's Top 20 picks](TOP20.md)**.
 
 | Category | Active listings |
 |---|---|
-| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 1734 |
-| [Hardware Engineering](listings/hardware-engineering.md) | 955 |
-| [Other](listings/other.md) | 1611 |
+| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 1727 |
+| [Hardware Engineering](listings/hardware-engineering.md) | 954 |
+| [Other](listings/other.md) | 1617 |
 | [Product Management](listings/product-management.md) | 259 |
 | [Quantitative Finance](listings/quantitative-finance.md) | 210 |
-| [Software Engineering](listings/software-engineering.md) | 1459 |
+| [Software Engineering](listings/software-engineering.md) | 1454 |
 
 ---
 *Sources and credits: [ATTRIBUTION.md](ATTRIBUTION.md) -- Scripts and usage: [USAGE.md](USAGE.md) -- Add a source: [CONTRIBUTING.md](CONTRIBUTING.md)*
