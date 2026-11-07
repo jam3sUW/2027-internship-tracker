@@ -1,4 +1,4 @@
-# Hardware Engineering (958)
+# Hardware Engineering (957)
 
 [← back to index](../README.md)
 
@@ -827,7 +827,6 @@
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Test-Engineering-Intern-OR-97124/1421978100/?ats=successfactors) | Test Engineer Intern | Hillsboro, OR | Fall 2026 | 2026-08-31 | 68 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | SOI Design Engineer Intern | Greensboro, NC | Fall 2026 | 2026-08-31 | 68 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors) | Product Engineering Intern | Hillsboro, OR | Fall 2026 | 2026-08-31 | 68 | simplify-2026 |
-| [Stryten](https://jobs.stryten.com/jobs/5809?icims=1) | Industrial or Mechanical Engineering Intern | Salina, KS | Summer 2027 | 2026-08-31 | 68 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884) | Optics-Physics Sensor Engineering Co-op - Spring 2027 | Cambridge, MA | Spring 2027 | 2026-08-31 | 68 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827) | Telematics Intern | Orlando, FL | Summer 2027 | 2026-08-31 | 68 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745) | Software Engineer Intern - Software - Summer 2027 | Greenville, WI, Oshkosh, WI | Summer 2027 | 2026-08-31 | 68 | simplify-2026 |

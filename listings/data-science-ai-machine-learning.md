@@ -74,7 +74,7 @@
 | [Catholic Charities of Kansas City-St. Joseph](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4597604) | Data and Project Coordinator AmeriCorps VISTA Intern | Kansas City, MO | N/A | 2026-11-05 | 2 | simplify-2026 |
 | [Baringa](https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101) | Solutions AI Lab Intern | London, UK | Summer 2027 | 2026-11-05 | 2 | simplify-2026 |
 | [PA Consulting](https://jobs.smartrecruiters.com/PAConsulting/744000159816244) | Data and Decision Intelligence Apprentice | London, UK | Fall 2027 | 2026-11-05 | 2 | simplify-2026 |
-| [Framatome](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) | AI and Software Innovation Intern | Lynchburg, VA | N/A | 2026-11-05 | 2 | simplify-2026 |
+| [Framatome](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) | AI and Software Innovation Intern | Lynchburg, VA | N/A | 2026-11-05 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Liberty Mutual](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) | Analyst Development Intern | Boston, MA, Seattle, WA, Plano, TX | Summer 2027 | 2026-11-05 | 2 | simplify-2026 |
 | [Novelis](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) | Automotive Engineering Co-op | Kennesaw, GA | Summer 2027 | 2026-11-05 | 2 | simplify-2026 |
 | [Peraton](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false) | Social Media & Marketing Analyst Intern | San Diego, CA | Summer 2027 | 2026-11-05 | 2 | simplify-2026 |
