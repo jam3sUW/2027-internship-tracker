@@ -1,4 +1,4 @@
-# Software Engineering (1426)
+# Software Engineering (1424)
 
 [← back to index](../README.md)
 
@@ -193,7 +193,6 @@
 | [HP Inc.](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1) | Software Engineer Intern | SF | Summer 2027 | 2026-10-28 | 12 | simplify-2026 |
 | [HP Inc.](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801) | Software Systems Intern - IQ | SF | Summer 2027 | 2026-10-28 | 12 | simplify-2026 |
 | [HP Inc.](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802) | Software Quality Assurance Intern | SF | Summer 2027 | 2026-10-28 | 12 | simplify-2026 |
-| [Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822) | IT and Systems Intern - Industrial Operations and Product Supply | Rensselaer, NY | Summer 2027 | 2026-10-28 | 12 | simplify-2026 |
 | [FormFactor](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304) | Electrical Design Automation Intern - AI & EDA Automation | Livermore, CA | N/A | 2026-10-28 | 12 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241) | Technology Intern | Belfast, UK | Summer 2027 | 2026-10-28 | 12 | simplify-2026 |
 | [Subtotal](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) | Software Engineer Intern | Remote in USA | N/A | 2026-10-28 | 12 | simplify-2026 |
@@ -570,7 +569,6 @@
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-10-02 | 38 | simplify-2026 |
 | [xAI](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Software Engineer Intern/Co-op | Palo Alto, CA | Summer 2027 | 2026-10-02 | 38 | simplify-2026 |
 | [xAI](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Software Engineering Intern Co-op | Palo Alto, CA | Spring 2027 | 2026-10-02 | 38 | simplify-2026 |
-| [Colibri Group](https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply) | Product Builder Returnship Intern | Pleasanton, CA | N/A | 2026-10-02 | 38 | simplify-2026 |
 | [InComm Payments](https://jobs.incommpayments.com/jobs/22268?icims=1) | Software Engineer Intern | Sandy, UT | Winter 2026 | 2026-10-02 | 38 | simplify-2026 |
 | [Symphony](https://symphony.com/company/apply?gh_jid=8121113) | Software Developer Intern | Belfast, UK | N/A | 2026-10-02 | 38 | simplify-2026 |
 | [Mindex](https://apply.workable.com/mindex/j/84B10DB922/apply) | Software Engineer Co-op | Rochester, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-10-02 | 38 | simplify-2026, vanshb03-2026, vanshb03-2027 |

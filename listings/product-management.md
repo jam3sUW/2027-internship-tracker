@@ -1,4 +1,4 @@
-# Product Management (253)
+# Product Management (252)
 
 [← back to index](../README.md)
 
@@ -70,7 +70,6 @@
 | [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Product Management Advertising Intern | Illinois | Summer 2027 | 2026-10-21 | 19 | simplify-2026 |
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | Product Analyst Co-op | Toronto, ON, Canada | Winter 2027 | 2026-10-21 | 19 | simplify-2026 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) | Product Analyst Intern - AI & Incubation | San Diego, CA | N/A | 2026-10-20 | 20 | simplify-2026 |
-| [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) | Supplies & Sensors Product Manager Intern - US | Lincolnshire, IL | Summer 2027 | 2026-10-20 | 20 | simplify-2026 |
 | [Amplify](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Product Management Intern | Remote in USA | Summer 2027 | 2026-10-19 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA | Summer 2027 | 2026-10-19 | 21 | simplify-2026 |
