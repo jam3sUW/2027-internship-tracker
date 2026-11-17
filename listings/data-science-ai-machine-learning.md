@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1745)
+# Data Science, AI & Machine Learning (1741)
 
 [← back to index](../README.md)
 
@@ -541,7 +541,6 @@
 | [CARIAD](https://job-boards.greenhouse.io/cariadinc/jobs/5462798008) | Engineer 1 Intern - VLA Model Development | Mountain View, CA | N/A | 2026-10-23 | 25 | simplify-2026 |
 | [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14069?icims=1) | Audit Analytics Intern | Atlanta, GA | Summer 2027 | 2026-10-23 | 25 | simplify-2026 |
 | [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14059?icims=1) | Financial Engineering Intern | Atlanta, GA | Summer 2027 | 2026-10-23 | 25 | simplify-2026 |
-| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14070?icims=1) | Agentic AI Data Science Intern | Jacksonville, FL | Summer 2027 | 2026-10-23 | 25 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14100?icims=1) | Index Analyst Intern | NYC | Summer 2027 | 2026-10-23 | 25 | simplify-2026 |
 | [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14089?icims=1) | Data Analyst Intern | Jacksonville, FL | Summer 2027 | 2026-10-23 | 25 | simplify-2026 |
 | [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14113?icims=1) | Data Science Intern | NYC | Summer 2027 | 2026-10-23 | 25 | simplify-2026 |
@@ -684,9 +683,7 @@
 | [Symbotic](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278) | Robot Manipulation Intern | Wilmington, MA | Summer 2027 | 2026-10-19 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Creative Artists Agency](https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391) | Data Analytics Intern | Denver, CO | Summer 2027 | 2026-10-19 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [DiDi Global](https://job-boards.greenhouse.io/didi/jobs/8299748) | Research Intern - Scene Understanding and Planning | San Jose, CA | N/A | 2026-10-18 | 30 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/286986) | Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | Spring 2027, Summer 2027 | 2026-10-18 | 30 | simplify-2026 |
 | [Ascension](https://jobs.ascension.org/us/en/job/15636) | Managed Care Analytics Intern | St. Louis, MO | Summer 2026 | 2026-10-17 | 31 | simplify-2026 |
-| [Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | Research Intern | SF | Summer 2027 | 2026-10-17 | 31 | simplify-2026 |
 | [Waabi](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | Safety Methodologies Intern Co-op | Toronto, ON, Canada, SF, Pittsburgh, PA | Summer 2027 | 2026-10-16 | 32 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557042145) | Research Intern - Machine Learning | Cambridge, MA, NYC | Summer 2026 | 2026-10-16 | 32 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557042156) | Research Intern - MSR AI Interaction and Learning | Redmond, WA, NYC | N/A | 2026-10-16 | 32 | simplify-2026 |
@@ -1076,7 +1073,6 @@
 | [KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) | Algorithm Engineering Intern | Milpitas, CA | Winter 2026 | 2026-09-22 | 56 | simplify-2026 |
 | [Dallas Fort Worth International Airport](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144) | Undergraduate Internship - Environmental Technical Projects | Dallas, TX | Summer 2027 | 2026-09-22 | 56 | simplify-2026 |
 | [Danaher](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675) | IT Data Analyst Intern | Brea, CA | Winter 2026 | 2026-09-22 | 56 | simplify-2026 |
-| [Gorbel](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Data-BI-Analyst-Co-Op_REQ-2026-2266) | Data BI Analyst Co-op | Victor, NY | Winter 2026 | 2026-09-22 | 56 | simplify-2026 |
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901) | Data Analytics Intern | Fort Wayne, IN | Summer 2027 | 2026-09-22 | 56 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [ASM Global](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Coral-Gables-FL/Student-Data-Specialist---University-of-Miami_R100125647) | Student Data Specialist | Coral Gables, FL | N/A | 2026-09-22 | 56 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Operational-Analysis---Undergraduate-Placement-2027_R37823) | Operational Analysis - Undergraduate Placement | Stevenage, UK | N/A | 2026-09-22 | 56 | simplify-2026 |

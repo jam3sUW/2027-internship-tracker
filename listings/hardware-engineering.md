@@ -1,4 +1,4 @@
-# Hardware Engineering (884)
+# Hardware Engineering (882)
 
 [← back to index](../README.md)
 
@@ -526,7 +526,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755) | Signal Integrity Intern Co-op | Toronto, ON, Canada | Fall 2027, Summer 2028 | 2026-09-28 | 50 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089) | Electrical/Software Co-op | Iron Mountain, MI | Winter 2027 | 2026-09-28 | 50 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) | Silicon Photonics Reliability Engineering Intern | Malta, NY | Summer 2027 | 2026-09-28 | 50 | simplify-2026 |
-| [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Circuit-Design-Intern--Master-s-or-PhD--Summer-2027-_JR-2604363) | Circuit Design Intern | Austin, TX | Summer 2027 | 2026-09-28 | 50 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284821) | Silicon Validation Engineer Intern - AI Hardware | Palo Alto, CA | Spring 2027 | 2026-09-26 | 52 | simplify-2026 |
 | [Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e/application?embed=true) | Embedded Systems Software Engineering Intern - January - August 2027 | Champaign, IL | Winter 2027 | 2026-09-25 | 53 | simplify-2026 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/ab7dd1c4-7196-4cae-8fbd-cddec993b9b8/apply) | Test Engineer Intern | Westminster, CO | Summer 2027 | 2026-09-25 | 53 | simplify-2026 |
@@ -726,7 +725,6 @@
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application?embed=true) | Flight Software Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application?embed=true) | Embedded Firmware Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Apex](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true) | Software Engineer Intern - Embedded Systems | LA | Spring 2027, Summer 2027 | 2026-09-03 | 75 | simplify-2026 |
-| [General Matter](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | Embedded Software Engineer Intern | LA | Summer 2027 | 2026-09-03 | 75 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547) | Digital IC Design Engineer Intern | Knoxville, TN, Dallas, TX, Tucson, AZ | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017568) | Packaging Engineer Intern | Dallas, TX, United States | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546) | Design Verification Engineer Intern - MS/PhD | Knoxville, TN, Dallas, TX, Phoenix, AZ | Winter 2026 | 2026-09-03 | 75 | simplify-2026 |
