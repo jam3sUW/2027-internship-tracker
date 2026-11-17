@@ -1,13 +1,19 @@
-# Other (1808)
+# Other (1814)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Lumentum](https://go.vansh.nyc/1AP) | Data Science & Analytics Intern | San Jose, CA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Disney](https://go.vansh.nyc/1AL) | Data Engineering Intern | New York, NY |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Clera](https://go.vansh.nyc/1AN) | Full-Stack Software Engineering Intern | New York, NY |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Leidos](https://go.vansh.nyc/1AO) | Cybersecurity Intern | Fort Belvoir, VA |  | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Zurich Insurance](https://go.vansh.nyc/1AD) | Data Analytics & AI Intern | Toronto, Canada |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Carnegie Mellon University](https://go.vansh.nyc/1Az) | AI Engineer Intern, Mission Innovation Lab | Pittsburgh, PA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [KLA](https://go.vansh.nyc/1AJ) | Firmware Intern | Milpitas, CA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/1AE) | Predictive Analytics Intern | Cincinnati, OH |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Bloomberg Industry Group](https://go.vansh.nyc/1AF) | Data Analyst Intern | Arlington, VA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Highmark Health](https://go.vansh.nyc/1AK) | Technical Analyst Intern, enGen Undergraduate | Pittsburgh, PA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Minitab](https://go.vansh.nyc/1Ax) | Software Engineering Intern | State College, PA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/1Au) | Robotics Intern, World Models, Multimodal Sensing | Cambridge, MA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Pacific Fusion](https://go.vansh.nyc/1Ao) | HPC/DevOps Engineering Intern | San Leandro, CA |  | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
