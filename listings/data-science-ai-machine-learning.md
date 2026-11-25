@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1749)
+# Data Science, AI & Machine Learning (1746)
 
 [← back to index](../README.md)
 
@@ -214,7 +214,6 @@
 | [Shopify](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | Summer 2027 | 2026-11-16 | 9 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000161844052) | Research Intern: Multimodal Foundation Models for Healthcare | Pittsburgh, PA | N/A | 2026-11-16 | 9 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000161841434) | Research Intern: Multimodal Sensor Foundation Models | Pittsburgh, PA | N/A | 2026-11-16 | 9 | simplify-2026 |
-| [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000161793229) | Data Analyst & Marketing/Sales Intern | Denham, UK | Summer 2027 | 2026-11-16 | 9 | simplify-2026 |
 | [Octaura](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | Data Engineer Intern | NYC | Summer 2027 | 2026-11-16 | 9 | simplify-2026 |
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) | Data Analyst Intern | Chicago, IL | Summer 2027 | 2026-11-16 | 9 | simplify-2026 |
 | [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771) | Data Science & Analytics Intern | San Jose, CA | N/A | 2026-11-16 | 9 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -594,7 +593,6 @@
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) | Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl | NYC | Summer 2027 | 2026-10-27 | 29 | simplify-2026 |
 | [Commonwealth Fusion Systems](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) | Plasma Physics Intern | Devens, MA | Summer 2027 | 2026-10-27 | 29 | simplify-2026 |
 | [Lumerate](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Data Associate Intern | Canada, Remote in Canada | Winter 2027 | 2026-10-27 | 29 | simplify-2026 |
-| [Amazon](https://amazon.jobs/en/jobs/10590070/applied-scientist-pxt-legends) | Applied Scientist Intern - Pxt Legends | United Kingdom | N/A | 2026-10-27 | 29 | simplify-2026 |
 | [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) | Data Science Product Analyst Intern | Fairfield, CA | N/A | 2026-10-27 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Samsung Research America](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Health AI Scholar Intern - Digital Health Algorithms Team | Mountain View, CA | Winter 2027 | 2026-10-27 | 29 | simplify-2026 |
 | [Hive Financial Systems](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) | Analytics Intern | Atlanta, GA | Summer 2027 | 2026-10-27 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -1619,7 +1617,6 @@
 | [Constellation Space](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | Graduate Researcher Intern - Machine Learning | Seattle, WA | Fall 2026 | 2026-07-15 | 133 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7662343067223263541) | Leave of Absence Analyst Project Intern | San Jose, CA | N/A | 2026-07-15 | 133 | simplify-2026 |
 | [Jane Street](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) | Data Engineering Intern | NYC | N/A | 2026-07-14 | 134 | simplify-2026 |
-| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=7976964) | Campus AI Researcher Intern | London, UK | Fall 2026 | 2026-07-13 | 135 | simplify-2026 |
 | [Amcor](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190) | AI Innovation Engineer Intern | Atlanta, GA | Fall 2026 | 2026-07-13 | 135 | simplify-2026 |
 | [Pika](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Research Intern - BS/MS/PhD | Palo Alto, CA | Fall 2026 | 2026-07-10 | 138 | simplify-2026 |
 | [Cotiviti](https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false) | AI Engineer Intern | Remote in USA | Summer 2026 | 2026-07-09 | 139 | simplify-2026 |
