@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1746)
+# Data Science, AI & Machine Learning (1745)
 
 [← back to index](../README.md)
 
@@ -249,7 +249,6 @@
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1) | Energy Savings Program Intern | University Park, State College, PA | Spring 2027, Summer 2027 | 2026-11-13 | 12 | simplify-2026 |
 | [ASML](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) | EUV Data Science and Analytics Intern | Austin, TX | N/A | 2026-11-13 | 12 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote in USA | Summer 2027 | 2026-11-13 | 12 | simplify-2026 |
-| [Fonds de solidarité FTQ](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) | Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada | N/A | 2026-11-13 | 12 | simplify-2026 |
 | [DraftKings](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1) | Data Science Intern | London, UK | Summer 2027 | 2026-11-13 | 12 | simplify-2026 |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) | Research Scientist Intern | London, UK | Winter 2027 | 2026-11-13 | 12 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Summer 2027 | 2026-11-13 | 12 | simplify-2026 |
